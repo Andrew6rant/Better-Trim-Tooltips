@@ -8,8 +8,7 @@
 		"Andrew6rant (Andrew Grant)"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Andrew6rant/Better-Trim-Tooltips"
 	},
 	"license": "MIT",
 	"icon": "assets/better-trim-tooltips/icon.png",
