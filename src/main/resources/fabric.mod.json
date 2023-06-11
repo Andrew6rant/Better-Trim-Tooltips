@@ -32,5 +32,12 @@
 	},
 	"suggests": {
 		"another-mod": "*"
+	},
+	"custom": {
+		"mc-publish": {
+			"modrinth": "WMoUFmXc",
+			"curseforge": 868132,
+			"loaders": ["fabric", "quilt"]
+		}
 	}
 }
